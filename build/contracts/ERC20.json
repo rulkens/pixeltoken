@@ -1,0 +1,14 @@
+{
+  "contract_name": "ERC20",
+  "abi": [
+    {
+      "inputs": [],
+      "payable": false,
+      "type": "constructor"
+    }
+  ],
+  "unlinked_binary": "0x60606040523415600e57600080fd5b5b5b5b603680601e6000396000f30060606040525b600080fd00a165627a7a723058200016ca92d1f5d0bfa377a84440d92b7c988a6ab9d29b3c1797c000b26d1acff50029",
+  "networks": {},
+  "schema_version": "0.0.5",
+  "updated_at": 1502138575803
+}
